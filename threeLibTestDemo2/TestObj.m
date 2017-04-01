@@ -20,4 +20,16 @@
     NSLog(@"我是测试小方法1");
 }
 
+- (void)testSecondMethod{
+    NSLog(@"我是测试小方法2");
+    NSLog(@"我是测试小方法2");
+    NSLog(@"我是测试小方法2");
+}
+
+- (void)testThirdMethod{
+    NSLog(@"我是测试小方法3");
+    NSLog(@"我是测试小方法3");
+    NSLog(@"我是测试小方法3");
+}
+
 @end

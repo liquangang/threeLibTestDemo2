@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TestObj.h"
 
 //! Project version number for threeLibTestDemo2.
 FOUNDATION_EXPORT double threeLibTestDemo2VersionNumber;

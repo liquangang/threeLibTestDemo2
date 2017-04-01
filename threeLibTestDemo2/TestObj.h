@@ -15,6 +15,10 @@
  */
 - (void)printInfo;
 
-- (void)testFirstMethod；
+- (void)testFirstMethod;
+
+- (void)testSecondMethod;
+
+- (void)testThirdMethod;
 
 @end
