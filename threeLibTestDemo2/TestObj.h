@@ -25,4 +25,6 @@
 
 - (void)testFiveMethod;
 
+- (void)testSixMethod;
+
 @end

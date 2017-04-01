@@ -44,4 +44,10 @@
     NSLog(@"我是测试小方法5");
 }
 
+- (void)testSixMethod{
+    NSLog(@"我是测试小方法6");
+    NSLog(@"我是测试小方法6");
+    NSLog(@"我是测试小方法6");
+}
+
 @end
