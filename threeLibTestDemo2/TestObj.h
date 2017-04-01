@@ -15,4 +15,6 @@
  */
 - (void)printInfo;
 
+- (void)testFirstMethod；
+
 @end
