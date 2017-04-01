@@ -23,4 +23,6 @@
 
 - (void)testFouthMethod;
 
+- (void)testFiveMethod;
+
 @end

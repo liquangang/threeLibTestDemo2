@@ -38,4 +38,10 @@
     NSLog(@"我是测试小方法4");
 }
 
+- (void)testFiveMethod{
+    NSLog(@"我是测试小方法5");
+    NSLog(@"我是测试小方法5");
+    NSLog(@"我是测试小方法5");
+}
+
 @end
