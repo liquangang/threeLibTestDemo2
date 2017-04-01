@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "threeLibTestDemo2"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.ios.deployment_target = '7.0'
   s.summary      = "私有库测试demo"
   s.description  = <<-DESC
